@@ -14,8 +14,6 @@ This repository contains computational workflows for studying strongly correlate
 - Green’s function analysis
 - Electronic structure calculations
 
-The workflow combines Wannierization and many-body calculations for investigating correlated electronic and magnetic properties.
-
 ---
 
 # Repository Structure
@@ -86,7 +84,6 @@ This Hamiltonian is used as the input for DMFT calculations.
 
 The repository includes DMFT calculations for studying:
 
-- correlated electronic structure,
 - finite-temperature properties,
 - magnetic behavior,
 - and many-body effects.
@@ -193,8 +190,6 @@ python scripts/plot_green_function.py
 This repository focuses on:
 
 - Dynamical Mean Field Theory (DMFT)
-- Strongly Correlated Systems
-- Many-Body Physics
 - Green’s Functions
 - Electronic Structure Theory
 - Finite-Temperature Magnetism
