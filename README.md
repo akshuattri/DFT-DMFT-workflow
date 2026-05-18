@@ -1,6 +1,6 @@
 # DFT-DMFT-Workflow
 
-DFT+DMFT workflow for correlated electronic structure calculations, Wannier Hamiltonian analysis, Green’s function visualization, and Curie temperature studies.
+DFT+DMFT workflow for electronic structure calculations, Wannier Hamiltonian analysis and Green’s function visualization.
 
 ---
 
