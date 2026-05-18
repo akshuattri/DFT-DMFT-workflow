@@ -1,0 +1,976 @@
+Starting serial run at: 2026-02-03 18:26:04.565178
+Starting serial run at: 2026-02-03 18:26:04.591123
+Starting serial run at: 2026-02-03 18:26:04.591991
+Starting serial run at: 2026-02-03 18:26:04.600010
+Starting serial run at: 2026-02-03 18:26:04.608561
+Starting serial run at: 2026-02-03 18:26:04.609242
+Starting serial run at: 2026-02-03 18:26:04.647925
+Starting serial run at: 2026-02-03 18:26:04.658866
+Starting serial run at: 2026-02-03 18:26:04.660049
+Starting serial run at: 2026-02-03 18:26:04.675140
+Starting serial run at: 2026-02-03 18:26:04.680594
+Starting serial run at: 2026-02-03 18:26:04.701220
+Starting serial run at: 2026-02-03 18:26:04.709476
+Starting serial run at: 2026-02-03 18:26:04.726961
+Starting serial run at: 2026-02-03 18:26:04.743666
+Starting serial run at: 2026-02-03 18:26:04.843721
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102606
+WARNING: Tail fit in extraction of delta(infty) has large error of: 0.102619
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 0 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.43334e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: The Delta(tau) block number 1 is not real in tau space
+WARNING: max(Im[Delta(tau)]) = 3.24673e-10
+WARNING: Dissregarding the imaginary component in the calculation.
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1
+WARNING: Tau discontinuity of G_tau deviates appreciably from -1
+     .... max_element |g(0) + g(beta) + 1| = 1.00001
