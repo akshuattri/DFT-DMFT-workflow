@@ -1,0 +1,37 @@
+# Wannier90 Input File Generated from hr.dat
+# -----------------------------------------------
+# REQUIRED: Update the unit_cell_cart and atoms_cart blocks
+# with data from your POSCAR or scf.in
+
+num_wann = 62
+num_iter = 0            # Set to 0 since we are using fixed hr.dat
+dis_num_iter = 0
+
+# --- Lattice Vectors (Example: Replace with your actual values) ---
+begin unit_cell_cart
+Boar
+0.0000000    3.0000000    3.0000000
+3.0000000    0.0000000    3.0000000
+3.0000000    3.0000000    0.0000000
+end unit_cell_cart
+
+# --- Atom Positions ---
+begin atoms_cart
+# Element  X  Y  Z
+# Fe       0.0  0.0  0.0
+end atoms_cart
+
+# --- K-point Mesh for Plotting/Properties ---
+mp_grid = 10 10 10
+begin kpoint_path
+G 0.00 0.00 0.00  X 0.50 0.00 0.00
+X 0.50 0.00 0.00  M 0.50 0.50 0.00
+M 0.50 0.50 0.00  G 0.00 0.00 0.00
+end kpoint_path
+
+# Plotting Flags
+bands_plot = true
+fermi_surface_plot = true
+~
+~
+
